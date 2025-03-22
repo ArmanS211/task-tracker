@@ -44,6 +44,7 @@ export default function App() {
 
   return (
     <>
+      <title>Task Tracker</title>
       <NewTaskForm onSubmit={addTodo}/>
       <h1 className="header">List of Tasks</h1>
       <TodoList todos={todos} toggleTodo={toggleTodo} deleteTodo={deleteTodo} />
