@@ -1,6 +1,8 @@
-A Task Tracker App, using JSX and basic React features like useState. 
+A Task Tracker App, using JSX, CSS and basic React features like useState and props. 
 
-Copyright <2024> <Arman Siddiqui>
+Accessible at https://ArmanS211.github.io/task-tracker/
+
+Copyright <2025> <Arman Siddiqui>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
